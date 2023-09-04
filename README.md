@@ -10,7 +10,7 @@
     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TAYBI&theme=gotham&hide_border=false" alt="GitHub Streak" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TAYBI&bg_color=0d1117&color=ffffff&line=2aa889&point=00ff11&area=true&hide_border=true" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TAYBI&bg_color=0d1117&color=ffffff&line=2aa889&point=599cab&area=true&hide_border=true" /></td>
   </tr>
 </table>
 
