@@ -13,10 +13,10 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
+
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=TAYBI&bg_color=0d1117&color=ffffff&line=2aa889&point=00ff11&area=true&hide_border=true)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilaltaybi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/taybi_bilal) 
 
 
----
-
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=TAYBI&bg_color=0d1117&color=ffffff&line=2aa889&point=00ff11&area=true&hide_border=true)
