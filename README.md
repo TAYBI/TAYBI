@@ -19,4 +19,4 @@
 
 ---
 
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=TAYBI&bg_color=0d1117&color=ffffff&line=238636&point=00ff11&area=true&hide_border=true)
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=TAYBI&bg_color=0d1117&color=ffffff&line=2aa889&point=00ff11&area=true&hide_border=true)
