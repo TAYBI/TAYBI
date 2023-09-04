@@ -4,14 +4,19 @@
 ## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=TAYBI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/ -->
 
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TAYBI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-readme-streak-stats.herokuapp.com/?user=TAYBI&theme=dark&hide_border=false) |
+
+
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TAYBI&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-readme-streak-stats.herokuapp.com/?user=TAYBI&theme=gotham&hide_border=false) |
 | ----------- | ----------- |
 
-
+<!--
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+-->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilaltaybi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/taybi_bilal) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=TAYBI&bg_color=0d1117&color=ffffff&line=238636&point=00ff11&area=true&hide_border=true)
