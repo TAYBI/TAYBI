@@ -5,9 +5,10 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=TAYBI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/ -->
 
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAYBI&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="margin-right: 20px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAYBI&theme=gotham&hide_border=false" alt="GitHub Streak" />
+<div style="display: flex; justify-content: space-between; align-items: start !importent;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TAYBI&theme=gotham&hide_border=false" alt="GitHub Streak" />
+<span> &nbsp;  </span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAYBI&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 
