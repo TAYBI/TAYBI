@@ -6,7 +6,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAYBI&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></td>
+    <td align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TAYBI&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></td>
     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TAYBI&theme=gotham&hide_border=true" alt="GitHub Streak" /></td>
   </tr>
   <tr>
