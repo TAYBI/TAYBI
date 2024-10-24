@@ -27,3 +27,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilaltaybi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/taybi_bilal) 
 
 
+<a style="display: none;"  href="https://info.flagcounter.com/hSIz"><img src="https://s01.flagcounter.com/countxl/hSIz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_3/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
